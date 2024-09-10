@@ -1,0 +1,6 @@
+--Disable
+if antifling then
+        antifling:Disconnect()
+        antifling = nil
+    end
+end)
