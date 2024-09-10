@@ -1,0 +1,14 @@
+    local Jumpstyle		= Instance.new("Sound")
+		Jumpstyle.Parent		= game:GetService("Workspace")
+		Jumpstyle.SoundId		= "rbxassetid://1839246711"
+		Jumpstyle.Playing		= true
+		Jumpstyle.Looped		= false
+		Jumpstyle.Pitch      = 0.9
+		Jumpstyle.Volume		= 4
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "YOU'RE COOKED KDOT"; 
+            Text = "Jumpstyle";
+            Icon = "rbxassetid://102240518592215";
+            Duration = 14;
+            })
