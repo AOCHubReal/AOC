@@ -1,5 +1,4 @@
 --Enable
-if antifling then
         antifling:Disconnect()
         antifling = nil
     end
@@ -13,4 +12,3 @@ if antifling then
                 end
             end
         end
-    end)
