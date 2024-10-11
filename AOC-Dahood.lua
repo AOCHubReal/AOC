@@ -1,6 +1,8 @@
 --AOC
 --[[
 Damn this nigga want to stole my script
+
+loadstring Version is      loadstring(game:HttpGet('https://raw.githubusercontent.com/AOCHubReal/AOC/main/AOC-Dahood.lua'))()      (Open Source)
 ]]
 
 
